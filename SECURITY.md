@@ -2,20 +2,19 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+Currently the application is in BETA MODE
+More Features will be available in the next version.
 
-| Version | Supported          |
+| Version | Ready              |
 | ------- | ------------------ |
-| 1.0.x   | :white_check_mark: |
-| 2.0.x   | :x:                |
-| 3.0.x   | :x: |
-| < 4.0   | :x:                |
+| 1.0.0   | :white_check_mark: |
+| 1.0.x   | :x:                |
+| 1.x.x   | :x:                |
+| < 2.0   | :x:                |
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+It does overwrite if you're not paying attention while compiling.
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+The Code Editor is very basic, Missing lot of errors explanation.
+Currently in BETA Stage hopefully it'll be improved and might be open-source later.
