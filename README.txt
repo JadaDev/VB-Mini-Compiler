@@ -1,6 +1,6 @@
 #  VB Simple Compiler - README
 
-![VB Compiler](https://github.com/JadaDev/VB-Mini-Compiler/blob/main/VBIcon.png?raw=true)
+![VB Compiler](https://raw.githubusercontent.com/JadaDev/VB-Mini-Compiler/main/VBIcon.png)
 
 If you want to test : 
 Open examples Folder and copy the text code inside any of those applications and write it inside the compiler.
